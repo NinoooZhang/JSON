@@ -3,7 +3,7 @@
 1. Run `pod install` 
 2. Run the test `CMD + U`
 
-# Results on my Xcode
+# Performance on my Xcode
 
 * JASON 
 <img width="400" src="https://user-images.githubusercontent.com/97948207/207834308-66f6b7a3-6f00-4d63-ac65-363919bfe16a.png">
