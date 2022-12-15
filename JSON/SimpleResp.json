@@ -1,0 +1,14 @@
+{
+    "id": 1234567890,
+    "name": "Nino",
+    "friends": ["Jack", "CH", "Dennis"],
+    "edu": {
+        "high_school": "USA No.1 High School",
+        "collage": "USD  No.1 University"
+    },
+    "likes": {
+        "games": true,
+        "study": true,
+        "party": false
+    }
+}
